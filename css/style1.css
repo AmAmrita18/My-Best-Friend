@@ -1,0 +1,198 @@
+
+
+#logo {
+    margin: 3px 23px;
+}
+
+#logo img {
+    height: 185px;
+    margin: 0px 44px;
+}
+
+#navbar {
+
+
+    display: flex;
+    align-items: center;
+    height: 200px;
+    background-color: #f5c8db;
+    position: relative;
+}
+
+#navbar h1 {
+    margin: auto;
+    color: #585151;
+    font-size: 5.5rem;
+    font-family: 'Courgette', cursive;
+}
+
+#home {
+    position: relative;
+    display: flex;
+    height: 611px;
+    background-color: #585151;
+}
+
+/* .start{
+    background-color: #f5c8db;
+} */
+.container {
+    margin: auto;
+}
+
+.box {
+    background-color: #585151;
+    color: white;
+    margin: auto;
+
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    font-size: 1.5rem;
+}
+
+.container img {
+    background-color: #f5c8db;
+    /* margin: auto; */
+
+}
+
+.about {
+    /* height: 100%; */
+    border: 8px solid #f5c8db;
+    border-radius: 20px;
+    margin: 4px;
+
+    background-color: rgb(249 243 243);
+}
+
+
+#services-container {
+    /* position: relative; */
+
+    background-color: #f5c8db;
+
+
+}
+
+#services {
+    margin: auto;
+    display: flex;
+}
+
+
+#services .similar {
+    border: 2px solid #585151;
+    padding: 18px;
+    width: 100%;
+    margin: 11px 31px;
+    border-radius: 28px;
+    background-color: rgb(249 243 243);
+}
+
+#services .similar img {
+    height: 200px;
+    margin: auto;
+    display: block;
+}
+
+#services .similar p {
+    text-align: center;
+}
+
+.h-primary {
+    text-align: center;
+    margin: auto;
+    color: #585151;
+    font-size: 3.5rem;
+    padding: 30px;
+    font-family: 'Courgette', cursive;
+
+}
+
+.h-secondary {
+    text-align: center;
+    font-size: 2.0rem;
+    padding: 12px;
+    font-family: 'Courgette', cursive;
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Handlee', cursive;
+}
+
+.center {
+    text-align: center;
+    font-size: medium;
+    margin: auto;
+    font-family: 'Handlee', cursive;
+}
+
+
+
+#moment {
+    margin: 3px 23px;
+}
+
+#moment img {
+    height: 405px;
+    margin: 0px 128px;
+}
+
+#memory {
+
+    border: 10px solid #585151;
+    size-adjust: 45px;
+    border-radius: 300px;
+
+    display: flex;
+    align-items: center;
+    height: 400px;
+    background-color: rgb(249 243 243);
+
+}
+
+#memory .you h1 {
+    text-align: center;
+
+    /* height: 100%; */
+    margin: auto;
+    color: #585151;
+    font-size: 3.5rem;
+    font-family: 'Courgette', cursive;
+}
+
+.unique {
+    background-color: #f5c8db;
+}
+
+.something {
+    text-align: center;
+    /* margin: 56px 30px; */
+    margin: auto;
+    font-family: 'Handlee', cursive;
+}
+
+.complete {
+    background-color: #585151;
+    color: white;
+    border: 4px solid #f5c8db;
+}
+
+.power {
+    display: flex;
+
+}
+
+#boost {
+    margin: -9px 30px;
+}
+
+.myself {
+    font-family: 'Handlee', cursive;
+    font-size: small;
+}
+
+.idiot {
+    font-family: 'Handlee', cursive;
+}
